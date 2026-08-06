@@ -81,32 +81,32 @@ export const facts = [
 	{
 		marker: "01",
 		title: "Design x Engineering",
-		text: "I am a full-stack software engineer with a prior career in visual design.",
+		text: "I'm a full-stack software engineer who started out in visual design.",
 	},
 	{
 		marker: "02",
 		title: "My first render was 3D",
-		text: "I studied 3D animation and VFX, which explains the instinct to make websites feel like places.",
+		text: "I studied 3D animation and VFX. It probably explains why I like websites to feel like places, not just pages.",
 	},
 	{
 		marker: "03",
 		title: "I build for real life",
-		text: "Sarana is a bilingual POS and dashboard made for my family's shop in Indonesia.",
+		text: "Sarana is a bilingual POS and dashboard I made for my family's shop in Indonesia.",
 	},
 	{
 		marker: "04",
 		title: "Play is serious research",
-		text: "Mi Casa turns a virtual tour of my home into eight mini-games with leaderboard challenges.",
+		text: "Mi Casa is a virtual version of my home, with eight small games hiding in it.",
 	},
 	{
 		marker: "05",
 		title: "Away from the screen",
-		text: "You will usually find me dancing, at the gym or heading outdoors for an adventure.",
+		text: "When I'm away from a screen, I'm usually dancing, at the gym, or outside somewhere.",
 	},
 	{
 		marker: "06",
 		title: "Located down here",
-		text: "I am a creative full-stack engineer based in Auckland, Aotearoa New Zealand.",
+		text: "I'm a full-stack engineer based in Auckland, Aotearoa New Zealand.",
 	},
 ];
 
@@ -115,19 +115,19 @@ export const experience = [
 		period: "2025 - NOW",
 		company: "Youdooh",
 		role: "Full Stack Engineer",
-		detail: "Cloud-native DOOH product development across Nuxt, Vue, Node.js, Express, PostgreSQL, testing, and CI/CD.",
+		detail: "Working on a cloud-native DOOH product across Nuxt, Vue, Node.js, Express, PostgreSQL, testing, and CI/CD.",
 	},
 	{
 		period: "2024 - 2025",
 		company: "PHQ",
 		role: "Intermediate Developer",
-		detail: "Interactive Google campaigns and playable experiences built with Angular, PixiJS, and Material UI.",
+		detail: "Built interactive Google campaigns and playable web experiences with Angular, PixiJS, and Material UI.",
 	},
 	{
 		period: "2023 - 2024",
 		company: "Generate Zero",
 		role: "Frontend Engineer",
-		detail: "Led dashboard UX for a carbon emissions platform serving clients including Westpac and Kiwibank.",
+		detail: "Led the dashboard UX for a carbon-emissions platform used by clients including Westpac and Kiwibank.",
 	},
 	{
 		period: "2019 - 2022",

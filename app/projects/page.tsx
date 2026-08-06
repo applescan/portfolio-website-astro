@@ -35,13 +35,13 @@ export default function ProjectsPage() {
 				<section className="archive-hero page-shell">
 					<div>
 						<p className="kicker">PROJECT ARCHIVE / {projects.length} FILES</p>
-						<h1>Products I&apos;ve engineered, built, and shipped.</h1>
+						<h1>Things I&apos;ve helped make and put into the world.</h1>
 					</div>
 					<aside>
 						<span>THE EVIDENCE ROOM</span>
 						<p>
-							Client work sits beside personal experiments here. The common thread is
-							care: for the user, the system, and the detail people remember.
+							This is a mix of client work and personal projects. Some are polished
+							campaigns; some started because I wanted to try an idea for myself.
 						</p>
 					</aside>
 				</section>

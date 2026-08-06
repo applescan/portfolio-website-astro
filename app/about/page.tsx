@@ -17,11 +17,10 @@ export default function AboutPage() {
 				<section className="about-page-hero page-shell">
 					<div className="about-page-title">
 						<p className="kicker">PERSONNEL FILE / FELICIA FEL</p>
-						<h1>A visual thinker who learned to ship the whole thing.</h1>
+						<h1>I started in design. Then I wanted to know how it all worked.</h1>
 						<p>
-							I&apos;m a creative full-stack engineer in Auckland, combining design
-							judgement with production engineering to make useful, expressive web
-							experiences.
+							I&apos;m Felicia, a full-stack engineer in Auckland. I bring a design
+							background to the web products and interactive things I build.
 						</p>
 					</div>
 					<div className="about-file-photo">
@@ -37,24 +36,24 @@ export default function AboutPage() {
 				<section className="origin-section page-shell">
 					<div>
 						<p className="kicker">01 / ORIGIN STORY</p>
-						<h2>Not a pivot. More like collecting extra tools.</h2>
+						<h2>It wasn&apos;t really a career change.</h2>
 					</div>
 					<div className="origin-copy">
 						<p>
-							My career began in visual design after studying 3D animation and VFX.
-							Designing websites and products made me increasingly curious about the
-							machinery underneath them, so I learned to build it.
+							I studied 3D animation and VFX, then worked in visual design. The more
+							websites and products I designed, the more I wanted to understand what
+							was happening underneath. So I started learning how to build them too.
 						</p>
 						<p>
 							Today I work across Vue/Nuxt, React/Next.js, Angular, Node.js,
 							TypeScript, PostgreSQL, GraphQL, Redis, Docker, and cloud tooling. I
-							care less about collecting framework names than choosing the right
-							parts and making them hold up in production.
+							care less about a long list of frameworks than using the right tools
+							and leaving things in a solid state for the next person.
 						</p>
 						<p>
-							That mixed background helps me see both halves of a product: how it is
-							structured and how it feels. I like being close to the whole process,
-							from a rough conversation through implementation, testing, and release.
+							Having worked in both design and engineering, I tend to notice how a
+							product works as well as how it feels to use. I like getting involved
+							early and seeing a project through to the end.
 						</p>
 					</div>
 				</section>
@@ -63,10 +62,10 @@ export default function AboutPage() {
 					<div className="page-shell capability-grid">
 						<div>
 							<p className="kicker">02 / OPERATING RANGE</p>
-							<h2>Engineering, end to end.</h2>
+						<h2>The work I like getting stuck into.</h2>
 							<p className="capability-intro">
-								My scope covers technical delivery across frontend architecture,
-								backend systems, data, testing, CI/CD, and cloud deployment.
+							I&apos;m comfortable moving between frontend work, backend systems, data,
+							testing, CI/CD, and deployment when a project needs it.
 							</p>
 						</div>
 						<ol>
@@ -83,7 +82,7 @@ export default function AboutPage() {
 					<div className="section-heading compact">
 						<div>
 							<p className="kicker">03 / FIELD HISTORY</p>
-							<h2>Where I&apos;ve been useful.</h2>
+						<h2>Places I&apos;ve worked.</h2>
 						</div>
 					</div>
 					<div className="timeline">

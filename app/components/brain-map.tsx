@@ -101,18 +101,15 @@ export function BrainMap() {
 
 					<g className="brain-zone zone-design">
 						<path d="M147 175 C167 127 232 111 270 140 C291 168 272 216 234 228 C194 241 145 219 147 175 Z" />
-						<text x="211" y="179" textAnchor="middle">PRODUCT</text>
-						<text className="zone-small" x="211" y="196" textAnchor="middle">DESIGN-INFORMED</text>
+						<text x="211" y="179" textAnchor="middle">IDEAS</text>
 					</g>
 					<g className="brain-zone zone-code">
 						<path d="M289 121 C337 87 408 109 430 155 C449 195 410 229 364 223 C320 218 278 174 289 121 Z" />
-						<text x="358" y="158" textAnchor="middle">CODE</text>
-						<text className="zone-small" x="358" y="175" textAnchor="middle">SHIPS FOR REAL</text>
+						<text x="358" y="158" textAnchor="middle">SYSTEMS</text>
 					</g>
 					<g className="brain-zone zone-play">
 						<path d="M263 258 C296 219 368 217 402 250 C435 283 405 337 357 350 C302 365 247 321 263 258 Z" />
-						<text x="337" y="285" textAnchor="middle">PLAY</text>
-						<text className="zone-small" x="337" y="302" textAnchor="middle">NON-NEGOTIABLE</text>
+						<text x="337" y="285" textAnchor="middle">SIDE QUESTS</text>
 					</g>
 
 					<g className="brain-circuit" fill="none">
@@ -150,19 +147,18 @@ export function BrainMap() {
 				<g className="brain-gate-scribbles">
 					<path d="M476 129 C510 108 545 112 568 132" />
 					<path d="M480 141 C520 123 550 129 575 150" />
-					<text x="494" y="105">signal acquired?</text>
+					<text x="494" y="105">Auckland, New Zealand</text>
 					<path d="M496 367 C560 383 609 378 652 359" />
-					<text x="502" y="401">ideas in / websites out</text>
+					<text x="502" y="401">design + engineering</text>
 				</g>
 			</svg>
 
 			<div className="gate-tape gate-tape-one" aria-hidden="true" />
 			<div className="gate-tape gate-tape-two" aria-hidden="true" />
-			<div className="gate-label gate-label-one">visual designer → engineer</div>
-			<div className="gate-label gate-label-two">3D / VFX origin story</div>
-			<div className="gate-label gate-label-three">built 8 mini-games at home</div>
-			<div className="gate-label gate-label-four">Google campaigns: shipped</div>
-			<div className="gate-label gate-label-five">dance / food / hike / repeat</div>
+			<div className="gate-label gate-label-two">3D animation &amp; VFX</div>
+			<div className="gate-label gate-label-three">Mi Casa: 8 mini-games</div>
+			<div className="gate-label gate-label-four">Google Play campaigns</div>
+			<div className="gate-label gate-label-five">dancing, food &amp; outdoors</div>
 
 			{ factVisible ? (
 				<aside className="brain-gate-fact" aria-live="polite">

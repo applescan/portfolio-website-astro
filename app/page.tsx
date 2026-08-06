@@ -44,10 +44,10 @@ export default function Home() {
 			<main>
 				<section className="brain-gate-hero" id="top">
 					<div className="brain-gate-headline reveal-up">
-						<p>FELICIA FEL&apos;S INTERNAL OPERATING SYSTEM</p>
+						<p>FELICIA FEL / PORTFOLIO</p>
 						<h1>Welcome to my brain</h1>
 						<span>
-							(no crawlers, no bots, no LLMs beyond this point — kidding, you got in somehow)
+							A small corner of the internet for my work and ideas.
 						</span>
 					</div>
 					<BrainMap />
@@ -64,11 +64,11 @@ export default function Home() {
 					<div className="section-heading">
 						<div>
 							<p className="kicker">01 / SELECTED EVIDENCE</p>
-							<h2>Work that escaped the sketchbook.</h2>
+						<h2>A few things I&apos;ve made.</h2>
 						</div>
 						<p>
-							A mix of production platforms, client campaigns, and self-initiated
-							experiments. Every case file contains the actual decisions and details.
+							Client work, production products, and side projects. Each one has its
+							own constraints, decisions, and a story behind it.
 						</p>
 					</div>
 					<div className="featured-projects">
@@ -97,14 +97,14 @@ export default function Home() {
 							<h2>Full-stack engineer. Product-minded. Design-informed.</h2>
 							<div className="about-columns">
 								<p>
-									My route into software was not a straight line. It ran through 3D
-									animation, VFX, visual design, UX, frontend engineering, and now
-									full-stack product development.
+									I didn&apos;t take a straight route into software. I came through 3D
+									animation, VFX, visual design, UX, and frontend work before becoming a
+									full-stack engineer.
 								</p>
 								<p>
-									That crossover is the point: I can move between the system and the
-									surface, care about the deployment and the delightful detail, and
-									translate between design and engineering without losing the idea.
+									That mix is useful because I can think about the interface and the
+									system behind it at the same time—and help design and engineering stay
+									on the same page.
 								</p>
 							</div>
 							<Link className="scribble-link dark" href="/about">
@@ -118,9 +118,9 @@ export default function Home() {
 					<div className="section-heading compact">
 						<div>
 							<p className="kicker">03 / NOTES FROM THE MARGINS</p>
-							<h2>Six facts, zero filler.</h2>
+						<h2>A few things about me.</h2>
 						</div>
-						<p>Verified from the work, the history, or the person herself.</p>
+						<p>The short version, beyond the job titles.</p>
 					</div>
 					<div className="fact-grid">
 						{ facts.map((fact) => (

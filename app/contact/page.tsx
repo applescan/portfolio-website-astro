@@ -38,10 +38,10 @@ export default function ContactPage() {
 				<section className="contact-hero page-shell">
 					<div>
 						<p className="kicker">OPEN CHANNEL / NO FORM REQUIRED</p>
-						<h1>Good ideas deserve a direct line.</h1>
+						<h1>Want to make something together?</h1>
 						<p className="contact-lead">
-							If you&apos;re building a product, shaping an interactive campaign, or
-							need an engineer who cares how the thing feels, send the context my way.
+							If you&apos;re working on a product or interactive campaign—or just think we
+							might be a good fit—send me a note. I&apos;d love to hear what you&apos;re making.
 						</p>
 					</div>
 					<div className="contact-stamp" aria-hidden="true">
@@ -67,7 +67,7 @@ export default function ContactPage() {
 
 				<section className="contact-note-section page-shell">
 					<p>Response protocol</p>
-					<h2>A real person reads every message. Specifics welcome; buzzwords optional.</h2>
+					<h2>I read every message myself. Tell me a little about what you&apos;re working on.</h2>
 					<a className="primary-button" href="mailto:feliu.ren@gmail.com?subject=Hello%20Felicia">
 						Write the email <span aria-hidden="true">↗</span>
 					</a>
